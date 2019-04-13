@@ -1,0 +1,27 @@
+---
+to: .gitignore
+---
+*.csv
+*.dat
+*.iml
+*.log
+*.out
+*.pid
+*.seed
+*.sublime-*
+*.swo
+*.swp
+*.tgz
+*.xml
+.DS_Store
+.idea
+.project
+.strong-pm
+coverage
+node_modules
+build
+dist
+target
+bundle.js
+bundle.js.map
+npm-debug.log
