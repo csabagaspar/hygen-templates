@@ -1,0 +1,17 @@
+---
+to: .tern-project
+---
+{
+  "ecmaVersion": 6,
+  "libs": [
+    "browser",
+    "jquery"
+  ],
+  "loadEagerly": [],
+  "plugins": {
+    "commonjs": {},
+    "complete_strings": {},
+    "es_modules": {},
+    "node": {}
+  }
+}
